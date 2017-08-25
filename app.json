@@ -1,0 +1,8 @@
+{
+  "name": "facebookchat1986",
+  "description": "",
+  "repository": "https://github.com/smirkhsu/FacebookChat.git",
+  "logo": "",
+  "keywords": ["node", "express", "heroku", "request", "body-parser", "path"],
+  "image": ""
+}
